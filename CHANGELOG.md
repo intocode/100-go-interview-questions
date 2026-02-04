@@ -12,6 +12,7 @@
 
 ### Added
 
+- Ссылки на Go By Example (gbe.intocode.ru) для 34 концепций Go
 - Ссылка на Wikipedia для термина LIFO в вопросе про defer
 
 ### Removed
